@@ -8,3 +8,4 @@ Test for gitLesson.
 * 2021.05.18 / conflict
 
 * 2021.05.18 / create branch "20210519-JSStudyGroup" and switch to this branch.
+* 2021.05.18 / git diff test
