@@ -1,2 +1,3 @@
 # jsStudyGroup
-TestForGitLesson
+
+Test for gitLesson.
