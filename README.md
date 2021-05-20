@@ -13,4 +13,4 @@ Test for gitLesson.
 
 * Create branch jsStudyGroup/20210519
 * 1th commit.
-* do something.
+* 2th commit.
